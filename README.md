@@ -1,9 +1,8 @@
-# Harper
 <h1 align="center">
   <br>
-  <a href="https://github.com/mrnothingslee-sudo/Clay"><img src="Clay_banner.png"></a>
+  <a href="https://github.com/mrnothingslee-sudo/Harper"><img src="Clay_banner.png"></a>
   <br>
-  Clay Discord Bot
+  Harper Discord Bot
   <br>
 <div align=center>
 
@@ -12,7 +11,7 @@
   </a>
 
   <a href="https://github.com/discordjs">
-    <img src="https://img.shields.io/badge/discord.js-v13.3.1-blue.svg?logo=npm" alt="shield.png">
+    <img src="https://img.shields.io/badge/discord.js-v13.1.0-blue.svg?logo=npm" alt="shield.png">
   </a>
 </div>
 
@@ -21,7 +20,7 @@
 An advanced multipurpose Discord bot with a lot of features like moderation, sends funny memes, posts interesting facts, fetchs loads of useful informations and posts cute animals pictures!
 
 ## Features
-Cay has over **100+** commands and more then **8** categories!
+Harper has over **100+** commands and more then **8** categories!
 
   * **Administration:** A huge amount of settings to customize with commands like `setprefix`, `settings`, and `autorole`
   * **Moderation:** Commands such as `kick`, `ban`, and `mute` to assist your moderator staff
@@ -30,7 +29,4 @@ Cay has over **100+** commands and more then **8** categories!
   * **Image:** An unique points system with a rotating winner that has commands like `biden`, `gun`, and `wanted`
   * **Economy:** An unique economy system that has commands like `beg` and `daily`
   * **Utility:** All other commands like `suggest`, `weather`, `translate`
-
-## Installation
-We have hid the files for reason. We don't want other to copy/fork our bot. Thank you for your understanding.
 
