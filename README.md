@@ -4,7 +4,7 @@
 <div align=center>
 
   <a href="https://discord.gg/ds3JY3b8wy">
-    <img src="https://discordapp.com/api/guilds/925074738311757844/widget.png?style=shield" alt="shield.png">
+    <img src="https://discord.com/api/guilds/925074738311757844/widget.json?style=shield" alt="shield.png">
   </a>
 
   <a href="https://github.com/discordjs">
