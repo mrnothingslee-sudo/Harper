@@ -1,7 +1,4 @@
 <h1 align="center">
-  <br>
-  <a href="https://github.com/mrnothingslee-sudo/Harper"><img src="Clay_banner.png"></a>
-  <br>
   Harper Discord Bot
   <br>
 <div align=center>
