@@ -4,6 +4,7 @@ Harper is an advanced multipurpose Discord bot with a lot of features like moder
 ## Features
 Harper has over **60+** commands and more than **5** categories!
 
+  - **Activities:** A lots of commands like `youtube-together`, `chess`, `betrayal`, `doodlecrew` and so much more
   - **Configuration:** A huge amount of settings to customize with commands like `setprefix`
   - **Moderation:** Commands such as `kick`, `ban`, and `slowmode` to assist your moderators
   - **Image:** Tons of fun commands like `cat` and `dog`
