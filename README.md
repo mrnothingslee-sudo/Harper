@@ -1,4 +1,4 @@
-![Discord Bots](https://top.gg/api/widget/947558476807299082.svg)(https://top.gg/bot/947558476807299082)
+![Discord Bots](https://top.gg/api/widget/947558476807299082.svg)
 
 ## About
 Harper is an advanced multipurpose Discord bot with a lot of features like moderation, sends funny memes, posts interesting facts, fetchs loads of useful informations and posts cute animals pictures!
