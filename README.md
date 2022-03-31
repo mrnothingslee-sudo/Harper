@@ -20,4 +20,4 @@ Harper has over **100+** commands and more than **5** categories!
 - Starboard supported
 
 ## Installation
-Self-hosting your own copy of this bot is not supported; the source code is provided here so users and other bot developers can see how the bot functions. No help will be provided for editing, compiling, or building any code in this repository.
+Self-hosting your own copy of this bot is not supported. No help will be provided for editing, compiling, or building any code in this repository.
