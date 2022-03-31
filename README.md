@@ -16,6 +16,7 @@ Harper has over **100+** commands and more than **5** categories!
 - Multi-guild supported
 - Anti scam links
 - Mass mention alert
+- Alts detection
 - Starboard supported
 
 ## Installation
