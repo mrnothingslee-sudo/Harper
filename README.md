@@ -18,6 +18,3 @@ Harper has over **120+** commands and more than **7** categories!
 - Mass mention alert
 - Alts detection
 - Starboard supported
-
-## Report bugs and submit suggestions
-Found a bug or have a suggestion concerning about Doughnut? Join our [support server](https://discord.gg/ds3JY3b8wy)! Enjoying the Doughnut? [Invite it]() now!
